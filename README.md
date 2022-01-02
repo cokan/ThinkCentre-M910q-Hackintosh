@@ -9,7 +9,7 @@
 |BIOS      |Lenovo Inc. M1AKT34A  |
 
 
-
+##BIOS
 
 |Setting item|Var Store|Variable|Initial value|Modify value|
 | :----- | :----- |:----- |:----- |:----- |
