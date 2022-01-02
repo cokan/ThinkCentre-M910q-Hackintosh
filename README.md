@@ -10,7 +10,8 @@
 
 
 
+
+|è®¾ç½®é¡¹|Var Store|Variable|åˆå§‹å€¼|ä¿®æ”¹å€¼
 | :----- | :----- |:----- |:----- |
-|ÉèÖÃÏî	|Var Store|Variable|³õÊ¼Öµ|ĞŞ¸ÄÖµ
-|DVMT|SaSetup|0x7AC|0x01|0x03£¨ÏÔ´æ96MB£©
-|CFG Lock|CpuSetup|0x503|0x01|0x00 £¨¹Ø±Õ£©
+|DVMT|SaSetup|0x7AC|0x01|0x03ï¼ˆæ˜¾å­˜96MBï¼‰
+|CFG Lock|CpuSetup|0x503|0x01|0x00 ï¼ˆå…³é—­ï¼‰
