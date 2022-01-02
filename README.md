@@ -13,5 +13,5 @@
 
 |Setting item|Var Store|Variable|Initial value|Modify value|
 | :----- | :----- |:----- |:----- |:----- |
-|DVMT|SaSetup|0x7AC|0x01|0x03（显存96MB）|
-|CFG Lock|CpuSetup|0x503|0x01|0x00 （关闭）|
+|DVMT|SaSetup|0x7AC|0x01|0x03|
+|CFG Lock|CpuSetup|0x503|0x01|0x00 |
