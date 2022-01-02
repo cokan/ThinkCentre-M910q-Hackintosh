@@ -1,7 +1,7 @@
 # ThinkCentre-M910q-Hackintosh
 
 ##System configuration
-|Model  |Mac mini (2018)  |Version	|BigSur 11.3|
+|Model  |iMac19,1  |Version	|BigSur 11.3|
 | :----- | :----- |:----- |:----- |
 |Processor |Intel Core i5-6600T	|Graphics	|Intel HD Graphics 530|
 |Memory	   |Samsung 3200MHz DDR4 8GB	|OS Disk	|SK Hynix SC308 256GB|
