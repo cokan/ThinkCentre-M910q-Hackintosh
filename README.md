@@ -20,6 +20,9 @@
 
 + [M910Q](https://github.com/gxz0233/M910Q_Hackintosh)
 + [OpenCore test](https://opencore.slowgeek.com/)
++ [ProperTree](https://github.com/corpnewt/ProperTree)
++ [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS)
++ [SSDTTime](https://github.com/corpnewt/SSDTTime)
 + [Intel Bluetooth](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 + [Intel WiFi](https://github.com/OpenIntelWireless/itlwm)
 + [Audio](https://github.com/acidanthera/appleALC/wiki/Supported-codecs)
