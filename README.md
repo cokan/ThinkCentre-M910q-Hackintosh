@@ -5,7 +5,7 @@
 | :----- | :----- |:----- |:----- |
 |Processor |Intel Core i5-6600T	|Graphics	|Intel HD Graphics 530|
 |Memory	   |Samsung 3200MHz DDR4 8GB	|OS Disk	|SK Hynix SC308 256GB|
-|Audio	   |Realtek ALC294	|WiFi/Bluetooth	|AC8265|
+|Audio	   |Realtek ALC294	|WiFi/Bluetooth	|Intel AC8265|
 |BIOS      |Lenovo Inc. M1AKT34A  |
 
 
