@@ -13,7 +13,7 @@
 
 |Setting item|Var Store|Variable|Initial value|Modify value|
 | :----- | :----- |:----- |:----- |:----- |
-|DVMT|SaSetup|0x7AC|0x01|0x03|
+|DVMT|SaSetup|0x7AC|0x01|0x03（96MB）|
 |CFG Lock|CpuSetup|0x503|0x01|0x00 |
 
 # N. Log
