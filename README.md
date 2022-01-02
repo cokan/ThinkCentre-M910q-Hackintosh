@@ -17,11 +17,6 @@
 |CFG Lock|CpuSetup|0x503|0x01|0x00 |
 
 # N. Log
-
-|[M910Q](https://github.com/gxz0233/M910Q_Hackintosh)|
-[OpenCore test](https://opencore.slowgeek.com/)|
-[Intel Bluetooth](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)|
-[Intel WiFi](https://github.com/OpenIntelWireless/itlwm)|
-[Audio](https://github.com/acidanthera/appleALC/wiki/Supported-codecs)|
-[iGPU ID](https://blog.daliansky.net/Intel-core-display-platformID-finishing.html)|
 | :----- | :----- |:----- |:----- |:----- |:----- |
+|[M910Q](https://github.com/gxz0233/M910Q_Hackintosh)|[OpenCore test](https://opencore.slowgeek.com/)|[Intel Bluetooth(https://github.com/OpenIntelWireless/IntelBluetoothFirmware)|[Intel WiFi](https://github.com/OpenIntelWireless/itlwm)|[Audio](https://github.com/acidanthera/appleALC/wiki/Supported-codecs)|[iGPU ID](https://blog.daliansky.net/Intel-core-display-platformID-finishing.html)|
+
