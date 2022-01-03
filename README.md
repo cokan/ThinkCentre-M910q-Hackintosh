@@ -26,5 +26,5 @@
 + [Intel Bluetooth](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 + [Intel WiFi](https://github.com/OpenIntelWireless/itlwm)
 + [Audio](https://github.com/acidanthera/appleALC/wiki/Supported-codecs)
-+ [iGPU ID](https://blog.daliansky.net/Intel-core-display-platformID-finishing.html)
++ [iGPU Intel processors](https://github.com/acidanthera/WhateverGreen/blob/master/Manual/FAQ.IntelHD.en.md)
 + [not read Nvme](https://zhuanlan.zhihu.com/p/371775428?ivk_sa=1024320u)
